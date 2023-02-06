@@ -2,8 +2,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/AnniRoch/ActiveDirectoryLab)
-
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+  
+- <b>Full Stack Web App (HTML, CSS, JavaScript, Bootstrap, jQuery, SQL, MongoDB, Mongoose, React)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
