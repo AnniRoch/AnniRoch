@@ -1,7 +1,7 @@
 <h1>Hi, I'm Anni! <br/>
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/XXXX)
+- [Active Directory Home Lab]([https://github.com/XXXX](https://github.com/AnniRoch/ActiveDirectoryLab)
 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
